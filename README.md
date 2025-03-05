@@ -44,8 +44,7 @@ The app includes a **light/dark mode toggle** using a theme switcher component. 
 ## **Setup & Installation**
 ### **1️⃣ Clone the repository**
 ```sh
-git clone https://github.com/your-repo/nuxt3-signup.git
-cd nuxt3-signup
+git clone https://github.com/lbrlek/nordhealth-signup.git
 ```
 
 ### **2️⃣ Install dependencies**
