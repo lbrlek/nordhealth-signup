@@ -1,0 +1,8 @@
+{
+    "users": [
+      { "email": "test@example.com" },
+      { "email": "admin@provetcloud.com" },
+      { "email": "user@demo.com" }
+    ]
+  }
+  

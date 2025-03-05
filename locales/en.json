@@ -1,0 +1,34 @@
+{
+  "signup": {
+    "title": "Sign up",
+    "email": "Email",
+    "password": "Password",
+    "password_placeholder": "Enter your password",
+    "email_placeholder": "Enter your email",
+    "receive_updates": "Receive product updates",
+    "signup_button": "Sign up",
+    "error_email_required": "Email is required.",
+    "error_email_invalid": "Please enter a valid email address.",
+    "error_email_exists": "This email is already registered.",
+    "error_password_required": "Password is required.",
+    "error_password_short": "Password must be at least 8 characters long.",
+    "error_password_uppercase": "Password must contain at least one uppercase letter.",
+    "error_password_lowercase": "Password must contain at least one lowercase letter.",
+    "error_password_number": "Password must contain at least one number.",
+    "error_password_special": "Password must contain at least one special character.",
+    "password_requirements": "Your password must be at least 8 characters long and include an uppercase letter, a lowercase letter, a number, and a special character.",
+    "error_password_complexity": "Please double-check your password for any extra spaces or unintended characters.",
+    "password_strength_weak": "Weak password",
+    "password_strength_moderate": "Moderate password",
+    "password_strength_strong": "Strong password",
+    "show_password": "Show password",
+    "hide_password": "Hide password",
+    "loading": "Signing up..."
+  },
+  "success": {
+    "heading": "Signup successful!",
+    "message": "Thank you for signing up. You can now enjoy our services.",
+    "opted_in_for_updates": "You have opted in for product updates.",
+    "go_back": "Go back"
+  }
+}

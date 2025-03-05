@@ -1,0 +1,34 @@
+{
+  "signup": {
+    "title": "Rekisteröidy",
+    "email": "Sähköposti",
+    "password": "Salasana",
+    "password_placeholder": "Anna salasanasi",
+    "email_placeholder": "Anna sähköpostiosoitteesi",
+    "receive_updates": "Vastaanota tuotepäivityksiä",
+    "signup_button": "Rekisteröidy",
+    "error_email_required": "Sähköposti on pakollinen.",
+    "error_email_invalid": "Anna kelvollinen sähköpostiosoite.",
+    "error_email_exists": "Tämä sähköpostiosoite on jo rekisteröity.",
+    "error_password_required": "Salasana on pakollinen.",
+    "error_password_short": "Salasanan on oltava vähintään 8 merkkiä pitkä.",
+    "error_password_uppercase": "Salasanassa on oltava vähintään yksi iso kirjain.",
+    "error_password_lowercase": "Salasanassa on oltava vähintään yksi pieni kirjain.",
+    "error_password_number": "Salasanassa on oltava vähintään yksi numero.",
+    "error_password_special": "Salasanassa on oltava vähintään yksi erikoismerkki.",
+    "password_requirements": "Salasanan on oltava vähintään 8 merkkiä pitkä ja sisältää ison kirjaimen, pienen kirjaimen, numeron ja erikoismerkin.",
+    "error_password_complexity": "Tarkista salasanasi mahdollisten ylimääräisten välilyöntien tai virheellisten merkkien varalta.",
+    "password_strength_weak": "Heikko salasana",
+    "password_strength_moderate": "Kohtalainen salasana",
+    "password_strength_strong": "Vahva salasana",
+    "show_password": "Näytä salasana",
+    "hide_password": "Piilota salasana",
+    "loading": "Rekisteröidään..."
+  },
+  "success": {
+    "heading": "Rekisteröityminen onnistui!",
+    "message": "Kiitos rekisteröitymisestäsi. Voit nyt käyttää palveluitamme.",
+    "opted_in_for_updates": "Olet tilannut tuotepäivitykset.",
+    "go_back": "Takaisin"
+  }
+}

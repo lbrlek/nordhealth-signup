@@ -1,0 +1,41 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "strict": true,
+    "jsx": "preserve",
+    "resolveJsonModule": true,
+    "baseUrl": ".",
+    "noEmit": true,
+    "allowSyntheticDefaultImports": true,
+    "types": [
+      "nuxt",
+      "@nuxtjs/i18n",
+      "@nuxt/schema",
+      "@provetcloud/web-components-vue-types",
+      "@nuxt/types",
+    ],
+    "paths": {
+      "~/*": [
+        "./*"
+      ],
+      "@/*": [
+        "./*"
+      ],
+      "#imports": [
+        ".nuxt/imports.d.ts"
+      ],
+    }
+  },
+  "include": [
+    "nuxt.config.ts",
+    "app.config.ts",
+    "env.d.ts",
+    "components/**/*.vue",
+    "layouts/**/*.vue",
+    "pages/**/*.vue",
+    "composables/**/*.ts",
+    "plugins/**/*.ts"
+  ]
+}
